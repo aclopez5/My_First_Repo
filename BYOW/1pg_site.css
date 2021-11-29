@@ -1,0 +1,67 @@
+.inline-block {
+    display: inline-block;
+    padding: 17px;
+    border-right: 1px solid #bbb;
+    text-align: center;
+}
+nav {
+    height: 50px;
+    background-color: rgb(46, 48, 51);
+    color: white;
+}
+.active {
+    background-color: lightskyblue;
+    color: black;
+    font-weight: 900;
+}
+.left {
+    float: left;
+    height: 700px;
+    background-color: rgb(186, 225, 250);
+    width: 24.8%;
+    text-align: center;
+    border-right: 1px solid #bbb;
+}
+.right {
+    float: left;
+    height: 700px;
+    background-color: lightskyblue;
+    width: 75%;
+    text-align: center;
+    border-left: 1px solid #bbb;
+}
+#PP {
+    width: 200px;
+    height: 175px;
+    padding-top: 15px;
+    border-radius: 50%;
+}
+p {
+    font-size: 26px;
+    font-weight: bold;
+}
+h2 {
+    text-align: left;
+    padding-left: 15px;
+}
+dl {
+    text-align: left;
+    padding-left: 15px;
+}
+dt {
+    font-size: 18px;
+    font-weight: bold;
+    padding: 5px;
+}
+#Haha {
+    width: 250px;
+    height: 175px;
+    float: left;
+    padding: 15px;
+}
+#Pics {
+    display: inline-block;
+    width: 250px;
+    height: 190px;
+    padding: 10px;
+}
