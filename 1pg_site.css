@@ -54,8 +54,8 @@ dt {
     padding: 5px;
 }
 #Haha {
-    width: 250px;
-    height: 175px;
+    width: 325px;
+    height: 225px;
     float: left;
     padding: 15px;
 }
@@ -64,4 +64,7 @@ dt {
     width: 250px;
     height: 190px;
     padding: 10px;
+}
+p2 {
+    font-size: 18px;
 }
